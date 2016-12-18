@@ -1,0 +1,11 @@
+.bottom-align {
+  position: relative;
+  min-height: 500px; }
+  .bottom-align .col_centered {
+    position: absolute;
+    bottom: 0;
+    padding-left: 20px; }
+    .bottom-align .col_centered .set_po_btn {
+      margin-left: 13px; }
+
+/*# sourceMappingURL=style_home.css.map */

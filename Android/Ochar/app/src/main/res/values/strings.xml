@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ContactMemory</string>
+    <string name="add_contact">Add Contact</string>
+    <string name="input_name">Input Fullname</string>
+    <string name="input_tel">Input Telephone number</string>
+    <string name="add">Add</string>
+
+    <string name="name">Name</string>
+    <string name="tel">Telephone</string>
+</resources>

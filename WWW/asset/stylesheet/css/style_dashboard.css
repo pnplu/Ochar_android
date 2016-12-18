@@ -1,0 +1,38 @@
+body {
+  background-color: #303841; }
+
+.set_pos_col2 {
+  margin-top: 10px;
+  background-color: #e6e6e6; }
+  .set_pos_col2 .image_box {
+    width: 100px;
+    height: 100px;
+    background-color: #000000;
+    float: left; }
+  .set_pos_col2 .box_set_ad {
+    width: 60px;
+    height: 80px;
+    padding-left: 20px;
+    padding-top: 20px;
+    float: left; }
+    .set_pos_col2 .box_set_ad p {
+      padding: 0px;
+      margin: 0px; }
+
+.set_nav {
+  background-color: #ffffff;
+  margin-top: 10px; }
+
+.set_bg_sm12_food {
+  background-color: #ffffff;
+  height: 100%;
+  min-height: 650px; }
+
+.set_pos_graph {
+  margin-top: 20px; }
+
+.set_tb {
+  margin-top: 20px;
+  float: left; }
+
+/*# sourceMappingURL=style_dashboard.css.map */
